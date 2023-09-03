@@ -7,7 +7,6 @@ if random_number > 5
 else
     puts "Подсказка: Мое число меньше 6"
 end
-puts random_number
 # 2.  Пользователь с клавиатуры вволит догадку 
 
 guess = gets.to_i
